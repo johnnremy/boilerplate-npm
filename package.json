@@ -1,6 +1,7 @@
 {
-	"author": "Johnremy Agbor",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Johnremy Agbor",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
